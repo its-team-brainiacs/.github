@@ -27,16 +27,16 @@ Our mission is to empower visual artists with innovative tools for **portfolio b
 ## Artistico: The Ultimate Platform for Artists ✨
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=download&id=1O0rirsPRoqDMR2hD7Uv6sRibDX4ua9gC" alt="App Screenshot 1" width="230" style="margin: 5px;"/>
-  <img src="https://drive.google.com/uc?export=download&id=1U1zqKjehmMkrtKCadS_fRoeMgopq02JW" alt="App Screenshot 2" width="230" style="margin: 5px;"/>
-  <img src="https://drive.google.com/uc?export=download&id=1EcoDbgOZ4sEm2bOQJzUBZYV5-9rha2lx" alt="App Screenshot 3" width="230" style="margin: 5px;"/>
-  <img src="https://drive.google.com/uc?export=download&id=12GmhDCXRRLK73pF0ekGPnZj5tNQsArwO" alt="App Screenshot 4" width="230" style="margin: 5px;"/>
+  <img src="https://drive.google.com/uc?export=download&id=1O0rirsPRoqDMR2hD7Uv6sRibDX4ua9gC" alt="App Screenshot 1" width="200" style="margin: 5px;"/>
+  <img src="https://drive.google.com/uc?export=download&id=1U1zqKjehmMkrtKCadS_fRoeMgopq02JW" alt="App Screenshot 2" width="200" style="margin: 5px;"/>
+  <img src="https://drive.google.com/uc?export=download&id=1EcoDbgOZ4sEm2bOQJzUBZYV5-9rha2lx" alt="App Screenshot 3" width="200" style="margin: 5px;"/>
+  <img src="https://drive.google.com/uc?export=download&id=12GmhDCXRRLK73pF0ekGPnZj5tNQsArwO" alt="App Screenshot 4" width="200" style="margin: 5px;"/>
 </p>
 
 ---
 
 <p align="center">
-  <a href="https://www.apple.com/app-store/" target="_blank">
+  <a href="https://app.artisticnest.art/" target="_blank">
     <img src="https://img.shields.io/badge/Download%20Now%20from%20the%20App%20Store-800000?style=for-the-badge&logo=apple&logoColor=white&labelColor=400000&color=4B0000&fontSize=18" alt="Download Now (Available on App Store)" style="height: 60px;"/>
   </a>
 </p>
@@ -49,16 +49,16 @@ Our dedicated developers at **Team Brainiacs** bring Artistico to life:
 
 <p align="center">
   <a href="https://github.com/Sharon1530">
-    <img src="https://github.com/Sharon1530.png" alt="Aida Sharon Bruce" width="225" style="margin: 5px;"/>
+    <img src="https://github.com/Sharon1530.png" alt="Aida Sharon Bruce" width="200" style="margin: 5px;"/>
   </a>
   <a href="https://github.com/aadi-aarrllo">
-    <img src="https://github.com/aadi-aarrllo.png" alt="Aditya Kumar Gupta" width="225" style="margin: 5px;"/>
+    <img src="https://github.com/aadi-aarrllo.png" alt="Aditya Kumar Gupta" width="200" style="margin: 5px;"/>
   </a>
   <a href="https://github.com/wasdprateek">
-    <img src="https://github.com/wasdprateek.png" alt="Prateek Kumar Rai" width="225" style="margin: 5px;"/>
+    <img src="https://github.com/wasdprateek.png" alt="Prateek Kumar Rai" width="200" style="margin: 5px;"/>
   </a>
   <a href="https://github.com/Roshan-047">
-    <img src="https://github.com/Roshan-047.png" alt="Roshan Karn" width="225" style="margin: 5px;"/>
+    <img src="https://github.com/Roshan-047.png" alt="Roshan Karn" width="200" style="margin: 5px;"/>
   </a>
 </p>
 
